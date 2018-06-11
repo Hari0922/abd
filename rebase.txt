@@ -1,0 +1,1 @@
+ hi this simple text file to check rebase concept in git.
